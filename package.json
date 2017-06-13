@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-swiper",
-  "version": "0.6.0",
+  "version": "0.7.0-beta.1",
   "description": "Enables touchfriendly, swipeable, carousel-like slides through nolimits4web/Swiper",
   "directories": {
     "doc": "doc",
@@ -50,8 +50,8 @@
     "carousel"
   ],
   "dependencies": {
-    "ember-cli-htmlbars": "1.1.1",
-    "ember-cli-babel": "^5.1.7"
+    "ember-cli-babel": "^5.1.7",
+    "ember-cli-htmlbars": "1.1.1"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config",
