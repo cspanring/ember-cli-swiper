@@ -1,5 +1,5 @@
 {
-  "name": "ember-cli-swiper",
+  "name": "@cspanring/ember-cli-swiper",
   "version": "0.7.3",
   "description": "Enables touchfriendly, swipeable, carousel-like slides through nolimits4web/Swiper",
   "keywords": [
